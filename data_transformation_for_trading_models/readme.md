@@ -31,5 +31,3 @@ A short, end-to-end walkthrough of cleaning, aligning, and exploring market and 
 2) Run all cells (Python 3, pandas/matplotlib/seaborn installed).
 3) Outputs are written to the repo root as listed above.
 
-### Color palette
-Plots use a teal-forward scheme: base `#009999` with complementary warm accents and deep teal text accents.
